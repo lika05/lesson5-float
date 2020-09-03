@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfair/PlayfairDisplay-BlackItalic.eot');
+    src: url('../fonts/playfair/PlayfairDisplay-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/playfair/PlayfairDisplay-BlackItalic.woff2') format('woff2'),
+        url('../fonts/playfair/PlayfairDisplay-BlackItalic.woff') format('woff'),
+        url('../fonts/playfair/PlayfairDisplay-BlackItalic.svg#PlayfairDisplay-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}

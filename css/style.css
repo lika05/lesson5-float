@@ -1,0 +1,113 @@
+
+.green-box{
+	background-color: #56836F;
+	border:40PX solid 006837;
+}
+ .nav-a {
+ 	font-size: 48px;
+ 	color: #fff;
+ 	text-transform: uppercase;
+ }
+
+ .nav-li {
+ 	display: inline-block;
+ 	margin-right: 60px;
+ }
+ .navigation {
+ 	float: right;
+ }
+ .logo {
+ 	float: right;
+ }
+.clear {
+	clear: both;
+}
+
+.header-wraper {
+	padding: 35px;
+}
+ 
+ /* basic clases */
+.container {
+	width: 1158px;
+	margin: 0 auto;
+}
+.yellow-box {
+	width: 540px;
+	background-color: yellow;
+	float: left;
+	padding: 15px;
+}
+
+.yellow-box2 {
+	width: 540px;
+	background-color: yellow;
+	float: right;
+	padding: 15px;
+}
+.yellow-box img {
+	float: right;
+	margin-left: 20px;
+}
+
+.yellow-box2 img {
+	float: left;
+	margin-right: 20px;
+}
+
+.yellow-box p,
+.yellow-box2 p {
+	text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+/* fonts*/
+
+/*.latinuri-absoluturi {
+	font-family: 'Do Hyeon', sans-serif;
+	font-style: italic;
+	text-transform: lowercase;
+}*/
+
+/*.latinuri-relatiuri {
+	 font-family: 'Playfair Display';
+}
+
+.test-1 {
+	float: left;
+}
+
+.test-2 {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+.wraper {
+	color: red;
+	background-color: yellow;
+}*/
